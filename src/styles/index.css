@@ -1,0 +1,17 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+
+* {
+  font-family: 'Nunito', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+  background: #764ba2;
+}
+
+button {
+  font-family: 'Nunito', sans-serif;
+}
